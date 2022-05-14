@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=523a765e_002D7703_002D4bea_002Db454_002Daeba78243864/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddComentarioCaso01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.LibroControllerTest.AddComentarioCaso01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60110862_002D2e18_002D4477_002Da087_002D705aa5e32bc1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IndexViewCaso01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.AuthControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.LibroControllerTest.DetalleLibroTestCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.HomeControllerTest.IndexViewCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.LibroControllerTest.AddComentarioCaso01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=866d0d0f_002D9c5f_002D4adb_002Dbc0c_002D4e17e1a83378/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddComentarioCaso01 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\under\Downloads\CalidadT2-master(1)\CalidadT2-master\CalidadT2Test" Presentation="&amp;lt;CalidadT2Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b140c3dc_002D2dfb_002D4484_002Db110_002Dad6e6ce3e85a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddComentarioCaso01 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\under\Downloads\CalidadT2-master(1)\CalidadT2-master\CalidadT2Test" Presentation="&amp;lt;CalidadT2Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
